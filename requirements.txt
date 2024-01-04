@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+numpy
+
+-e .   # This -e editable and . means on current directory
