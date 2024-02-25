@@ -1,5 +1,8 @@
 pandas
 scikit-learn
 numpy
+matplotlib
+seaborn
+openpyxl
 
 -e .   # This -e editable and . means on current directory

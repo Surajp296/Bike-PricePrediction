@@ -1,1 +1,1 @@
-# This is Project for Bike Price Prediction
+# This is Project for Flight Price Prediction
